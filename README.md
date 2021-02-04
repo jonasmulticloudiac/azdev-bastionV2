@@ -6,7 +6,7 @@ Link para visualizar o resultado|
 http://bit.ly/3aCCcg3 | 
 
 
-* Pré-requesitos:
+__Pré-requesitos:__
 > Estar com as credenciais da sua conta exportadas no seu ambiente
 >Resumo deste cenario pode ser visto seguindo os links abaixo
 
